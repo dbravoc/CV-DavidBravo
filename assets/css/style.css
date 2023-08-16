@@ -1,0 +1,126 @@
+/*estilos index*/
+.fondo{
+    background-color: #000000;
+    color: aliceblue;
+    width: auto;
+    height: auto;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:5%;
+    font-family:'Poppins', sans-serif;
+}
+
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    list-style-type: none;
+    color: skyblue;
+    font-style: bold;
+}
+
+.table{
+    display: flex;
+}
+
+td{
+    padding-right: 8px;
+}
+
+/* Estilos Iguana*/
+
+
+
+.rectangulo1{
+    width: auto;
+    height: auto;
+    background: #000000;
+    justify-content: center;
+    opacity: 1;
+}
+
+.img1{
+    display:flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.texto1{
+    font-family: Raleway;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.cajabox1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img2{
+    align-content: left;
+    width: 399px;
+    height: 237px;
+    margin-left: 53px;
+    margin-right: 150px;
+}
+
+.texto2{
+
+    font-family: Raleway;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 150px;
+    margin-right: 53px;
+}
+
+.texto3{
+    background: #1E1A13;
+    font-family: Raleway;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 15px;
+}
+
+.cajabox2{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 150px;
+}
+
+.texto4{
+    background: #1E1A13;
+    font-family: Raleway;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.img3{
+    display: flex;
+    justify-content: space-between;
+    width: 316px;
+    height: auto;
+    padding: 30px 0;
+}
+
+.footer{
+    background: #1E1A13;
+    font-family: Raleway;
+    font-size: 20;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
